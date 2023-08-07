@@ -1,0 +1,2 @@
+apt-get chromium-browser chromium-chromedriver --fix-missing
+pip install selenium youtube_dl boto3 unidecode bs4
