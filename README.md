@@ -2,7 +2,7 @@
 
 ## Overview
 
-CrossOver is a web scraping toolset, initiated in 2021 with funding from the European Union’s programme on the financing of Pilot Projects and Preparatory Actions in the field of “Communications Networks, Content and Technology” under the grant agreement LC-01682253. The project was led by [EU DisinfoLab](https://disinfo.eu) in collaboration with [CheckFirst](https://checkfirst.network), [Apache](https://apache.be), and [Savoir-Devenir](https://savoirdevenir.net/). For more detailed information about the project, please visit [here](https://checkfirst.network/introduction-to-the-crossover-project/).
+CrossOver is a web scraping toolset, initiated in 2021 with funding from the European Union’s programme on the financing of Pilot Projects and Preparatory Actions in the field of “Communications Networks, Content and Technology” under the grant agreement LC-01682253, as well as from the Mozilla Technology Fund. The project was led by [EU DisinfoLab](https://disinfo.eu) in collaboration with [CheckFirst](https://checkfirst.network), [Apache](https://apache.be), and [Savoir-Devenir](https://savoirdevenir.net/). For more detailed information about the project, please visit [here](https://checkfirst.network/introduction-to-the-crossover-project/).
 
 ## Media Highlights
 
